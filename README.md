@@ -1,5 +1,13 @@
-# ST 430-15
+# SMPTE ST 430-15, D-Cinema Operations – Facility List Message Exchange Protocol
 
-Managed by [TC 21-DC](https://kws.smpte.org/higherlogic/ws/groups/db60330e-84de-4faf-a59d-f8a29e10ce07)
+_This repository is public._ 
 
-Document [abstract](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=st430-15)
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
+
+## Reporting issues
+
+Please report issues at <https://github.com/SMPTE/st430-15/issues> or at the 21DC Chairs <21dc-chair@smpte.org>.
+
+## Project details
+
+Maintenance revision project pending.
